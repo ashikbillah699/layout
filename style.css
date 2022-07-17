@@ -1,0 +1,12 @@
+ .container {
+     border: 2px dotted red;
+     display: flex;
+     justify-content: space-evenly;
+ }
+
+ .box {
+     font-size: 30px;
+     border: 3px dotted black;
+     width: 100px;
+     height: 100px;
+ }
